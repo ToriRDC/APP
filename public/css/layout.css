@@ -60,7 +60,7 @@ header .banner {
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #b45050;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
 }
@@ -118,7 +118,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #0762f9; }
+header .scrolldown a:hover { color: hsl(217, 95%, 50%); }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -180,7 +180,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #fe6928; }
+ul#nav li.current a { color: #f7f7f7; }
 
 
 /* ------------------------------------------------------------------ */
@@ -188,7 +188,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
+   background: #00041a;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -207,10 +207,10 @@ ul#nav li.current a { color: #fe6928; }
    color: #ccc;
 }
 #about .profile-pic {
-   position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   position: static;
+   width: 100%;
+   height: 100%;
+
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {

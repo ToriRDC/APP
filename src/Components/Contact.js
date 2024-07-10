@@ -36,7 +36,7 @@ class Contact extends Component {
                 <fieldset>
                   <div>
                     <label htmlFor="contactName">
-                      Name <span className="required">*</span>
+                      Nombre <span className="required">*</span>
                     </label>
                     <input
                       type="text"
@@ -63,7 +63,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                    <label htmlFor="contactSubject">Subject</label>
+                    <label htmlFor="contactSubject">Asunto</label>
                     <input
                       type="text"
                       defaultValue=""
@@ -76,7 +76,7 @@ class Contact extends Component {
 
                   <div>
                     <label htmlFor="contactMessage">
-                      Message <span className="required">*</span>
+                      Mensaje <span className="required">*</span>
                     </label>
                     <textarea
                       cols="50"
@@ -106,7 +106,7 @@ class Contact extends Component {
           <Slide right duration={1000}>
             <aside className="four columns footer-widgets">
               <div className="widget widget_contact">
-                <h4>Address and Phone</h4>
+                <h4>Dirección y teléfono de contacto</h4>
                 <p className="address">
                   {name}
                   <br />

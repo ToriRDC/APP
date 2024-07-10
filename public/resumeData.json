@@ -3,17 +3,17 @@
     "name":"Polymetal 21",
     "description":"Polymetal21 es una empresa que forma parte del Grupo Cancio especializada en el pintado en polvo de todo tipo de piezas metálicas. Trabajamos para una amplia variedad de clientes y sectores, entre los cuales el mobiliario y la iluminación, la construcción, la automoción, o el sector agrario representan un mayor peso en nuestra producción.",
     "image":"logo.png",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"Nuestras instalaciones de Santovenia de Pisuerga (Valladolid) disponen de la tecnología mas avanzada del sector, contando igualmente con un equipo humano cualificado y altamente motivado. Prestamos servicios de pintado de superficies metálicas, termolacado y utilización de epoxi en  Castilla y Leon y Madrid. Si no está tu provincia de trabajo contacta con nosotros a través de nuestro formulario de contacto. El alto nivel de exigencia en la Calidad de los acabados, la agilidad en el proceso productivo y la gran relación Calidad/Precio son las claves que permiten a Polymetal ser un referente en el sector del recubrimiento de superficies metálicas en Castilla y León.",
+    "contactmessage":"Si deseas más informacion puedes contactar con nosotros a través del siguiente formulario.",
+    "email": "diego.torices.vina@gmail.com",
+    "phone": "983 404 338",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Poligono Industrial El Arenal, parcela 10",
+      "city":"Santovenia de Pisuerga",
+      "state":"España",
+      "zip": "47155"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -49,30 +49,53 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Instalaciones del proceso de pintado de superficies metálicas",
+        "degree":"Hornos, almacenje y preparación de entrega y naves especialmente acondicionadas",
+        "description":"Nuestra instalación esta ubicada en una planta de 1.500 m2. de superficie que consta de: Zona de almacenamiento paletizado, zona de carga y descarga , almacén de polvo climatizado, tuneles de tratamiento , cabina de aplicación robotizada , 150 m.l. de cadena para tratamiento en contínuo, laboratorio de ensayos y oficinas comerciales y de administración."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Laboratorio",
+        "degree":"Procesos de control y ensayos",
+        "graduated":"",
+        "description":"Disponemos de un laboratorio de ensayos donde realizamos los controles tanto del proceso como de las piezas tratadas. Contamos con equipos de ensayo para control de las concentraciones, PH, temperatura, conductividad, y pureza de los baños de tratamiento. Igualmente llevamos a cabo ensayos sistemáticos sobre las piezas pintadas, realizando evaluación y registro de probetas por cada serie de producción, particularmente test de adherencia, resistencia al impacto y a la torsión de todos los recubrimientos aplicados, según normas UNE , lo que nos permite ofrecer una calidad homologable en todos nuestros trabajos."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Zona de carga",
+        "title":"",
+        "years":"",
+        "description":"Las piezas son revisadas y colgadas en cadena de forma manual con especial cuidado de inspeccionar visualmente aquellas que no reunen las mejores condiciones para ser pintadas, descartando los defectos por óxido y otras incidencias."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Tunel de pretratamiento (25m)",
+        "title":"",
+        "years":"",
+        "description":"En esta etapa se prepara el metal para recibir su tratamiento posterior con garantia. Las piezas son sometidas previamente a un desengrasado con elementos detergentes aplicados a presión y a una temperatura de 55º. C. Seguidamente la superficie del metal recibe un baño que le proporciona el fosfatado preciso para mejorar su resistencia al óxido y mejor adherencia de la pintura. Finalmente las piezas son lavadas a presión con agua totalmente desmineralizada por ósmosis inversa.."
+      },
+      {
+        "company":"Horno de secado",
+        "title":"",
+        "years":"",
+        "description":"Ahora las piezas totalmente limpias, fosfatadas y desmineralizadas, pasan por este túnel en el que existe una ventilación forzada de aire a 120 º.C. que seca la pieza por evaporación al tiempo que la calienta para recibir en las mejores condiciones el siguiente proceso."
+      },
+      {
+        "company":"Cabina de aplicacion (5m)",
+        "title":"",
+        "years":"",
+        "description":"El proceso de aplicación del polvo se realiza mediante dos grupos de robots dotados de reciprocador y por proyectores por grupo. La Cabina de aplicación habilita una zona de retoque manual a pistola para piezas especialmente complejas. El sistema permite la aplicación de una película particularmente homogénea en todos los puntos de la pieza pintada"
+      },
+      {
+        "company":"Túnel de polimerizacion (20m)",
+        "title":"",
+        "years":"",
+        "description":"Finalizada la aplicación del polvo, la pieza entra en este túnel en el que recibe una radiación térmica progresiva que culmina en torno a los 220 ºC, que consiguen la polimerización y adherencia de la capa de pintura , posteriormente se realiza una reducción progresiva de la temperatura de la pieza."
+      },
+      {
+        "company":"Zona de descarga y embalado",
+        "title":"",
+        "years":"",
+        "description":"Las piezas, ya acabadas , son descargadas de forma manual , descartando para reproceso aquellas que presenten algun defecto o imperfección. Seguidamente se procede a la colocación de protecciones , embalado y paletizado atendido a las especificaciones del cliente.."
       }
     ],
     "skills":[
@@ -109,9 +132,9 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"Horno de secado",
         "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
+        "image":"instalaciones1.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
