@@ -33,17 +33,20 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   
    text-align: center;
    overflow: hidden;
+   background: url('../assets/portada.jpg') no-repeat center center; /* Ajusta la ruta */
+   background-size: cover; /* Ajusta la imagen para cubrir el área del header */
+   color: #fff; /* Asegúrate de que el texto sea visible sobre la imagen */
 }
 
 /* vertically center banner section */
 header:before {
    content: '';
    display: inline-block;
-   vertical-align: middle;
+   vertical-align: bottom;
    height: 100%;
+
 }
 header .banner {
    display: inline-block;
@@ -66,16 +69,19 @@ header .banner-text h3 {
    color: #ddd;
    margin: 0 auto;
    width: 70%;
+   text-align: left; /* Alinear a la izquierda */
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
    color: #fff;
+   text-align: left; /* Alinear a la izquierda */
 }
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
-   border-color: #2F2D2E;
-   border-color: rgba(150, 150, 150, .1);
+   border-color: #ffffff;
+   border-color: rgb(255, 255, 255);
+   text-align: left; /* Alinear a la izquierda */
 }
 
 /* header social links */
@@ -758,7 +764,7 @@ call-to-action .button {
     margin: 0 6px;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
 }
 .flex-control-paging li a {
     width: 12px;
